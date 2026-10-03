@@ -1,0 +1,60 @@
+PROPRIETARY SOFTWARE — ALL RIGHTS RESERVED
+
+Copyright (c) 2026 Hoardwick. All rights reserved.
+
+1. SCOPE
+
+This repository and the release assets published in it (together, the "Software")
+are provided by Hoardwick. The Software is proprietary. No source code is published,
+licensed, or otherwise made available through this repository.
+
+2. LICENCE GRANT
+
+Hoardwick grants you a personal, non-exclusive, non-transferable licence to download
+and run the Software on devices you own or control, subject to:
+
+  (a) the Terms of Service published at https://hoardwick.com/legal/terms;
+  (b) any activation, licensing, or usage limits communicated with the Software; and
+  (c) the third-party licence terms listed in THIRD-PARTY-LICENSES.txt, which is
+      included in every release archive.
+
+3. RESTRICTIONS
+
+You may not:
+
+  (a) copy, modify, adapt, translate, or create derivative works of the Software;
+  (b) reverse engineer, decompile, or disassemble the Software, except to the extent
+      that such activity is expressly permitted by applicable law;
+  (c) redistribute, sublicense, sell, rent, lease, or otherwise make the Software
+      available to any third party;
+  (d) remove, obscure, or alter any copyright, trademark, or other proprietary
+      notice contained in the Software; or
+  (e) circumvent, disable, or otherwise interfere with any licence-enforcement,
+      activation, or usage-limiting mechanism in the Software.
+
+4. THIRD-PARTY COMPONENTS
+
+The Software bundles third-party open-source components. Their licences, and the
+copyright notices they require to be reproduced, are set out in
+THIRD-PARTY-LICENSES.txt inside each release archive, and at
+https://hoardwick.com/legal/licenses. Those terms apply to those components and
+prevail over this licence where they conflict.
+
+5. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+6. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL HOARDWICK BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+7. ACCEPTABLE USE
+
+You are solely responsible for the material you process with the Software. The
+Software is intended for material you have the rights to keep — your own uploads,
+material licensed to you, or material in the public domain. It does not bypass
+access controls or handle DRM-protected content.
